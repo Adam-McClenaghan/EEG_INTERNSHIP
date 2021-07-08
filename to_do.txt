@@ -1,0 +1,5 @@
+Latency fix on OpenBCI website? under depricated documents
+
+bluetooth w/ daisy limited to 125Hz
+
+https://github.com/andreaortuno/Plotting_OpenBCI_Cyton_Data_live/blob/master/Plotting%20live%20data%20with%20Cyton%20with%20pyqtgraph.ipynb

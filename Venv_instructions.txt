@@ -1,0 +1,9 @@
+python virtual env
+
+>>> python -m venv environment_name
+
+>>> environment_name\Scripts\activate.bat
+
+(environment_name) >>> deactivate #deactivates venv
+
+>>> py -3.8 -m venv environment_name   #to create venv with specific version 
